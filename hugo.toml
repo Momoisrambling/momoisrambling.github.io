@@ -1,0 +1,4 @@
+baseURL = 'https://Momoisrambling.github.io/'
+languageCode = 'en-us'
+title = 'Momo is rambling'
+theme = "PaperMod"
