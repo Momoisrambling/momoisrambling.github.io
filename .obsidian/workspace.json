@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/余生皆假期.md",
+                "file": "content/posts/只有动作够快，才能活得够长。.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "余生皆假期"
+              "title": "只有动作够快，才能活得够长。"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/余生皆假期.md",
+                "file": "content/posts/只有动作够快，才能活得够长。.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 余生皆假期"
+              "title": "Backlinks for 只有动作够快，才能活得够长。"
             }
           },
           {
@@ -183,11 +183,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "6d46773d079b6bbd",
+  "active": "045e56ab6b05f27a",
   "lastOpenFiles": [
-    "content/posts/如果你死了，绿灯又有什么用？.md",
+    "content/posts/在战术和战役上的速决，是战略上持久的必要条件。.md",
+    "content/posts/只有动作够快，才能活得够长。.md",
     "content/posts/余生皆假期.md",
     "content/posts/Hello, world.md",
+    "content/posts/瓷器不需要证明它的坚硬.md",
     "deploy.bat",
     "Templates/Blog-Header.md",
     "Templates",
